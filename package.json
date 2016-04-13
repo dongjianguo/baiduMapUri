@@ -1,0 +1,23 @@
+{
+  "name": "baidu-map-uri",
+  "version": "0.0.1",
+  "description": "baidu location geolocation",
+  "main": "baiduMapUri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Map",
+    "Location"
+  ],
+  "author": "Dongjianguo <706388859@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dongjianguo/baiduMapUri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dongjianguo/baiduMapUri/issues"
+  },
+  "homepage": "https://github.com/dongjianguo/baiduMapUri#readme"
+}
