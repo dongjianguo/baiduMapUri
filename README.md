@@ -69,9 +69,9 @@
     2.marker地图标点
         baiduMapUri('marker', {
             location: '39.990912172420714,116.32715863448607',
-                title: '这里填标题',
-                content: '这里填内容',
-                appName: 'yourCompanyName|yourAppName'
+            title: '这里填标题',
+            content: '这里填内容',
+            appName: 'yourCompanyName|yourAppName'
         });
 
     3.gecoder地理定位调用
